@@ -1,4 +1,7 @@
 const $ = require("jquery");
+const sayHello = require("./say-hello");
+
+console.log(sayHello());
 
 const hello = () => console.log("Hello redwood from webpack!");
 
