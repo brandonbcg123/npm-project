@@ -9,4 +9,4 @@ hello();
 
 $("body")
     .html("<h1>Hello from jQuery</h1>")
-    .css("background-color", "gray")
+    .css("background-color", "gray");
